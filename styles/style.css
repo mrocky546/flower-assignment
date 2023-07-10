@@ -1,0 +1,26 @@
+
+.banner{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-title{
+
+}
+
+.photo{
+    height: 400px;
+    
+}
+
+
+.btn{
+    border-radius: 0.5rem;
+    background: #E55473;
+    color: #FFF;
+    border: 0;
+    font-size:20px;
+    
+}
