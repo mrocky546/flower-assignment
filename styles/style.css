@@ -1,4 +1,14 @@
 
+.nav-banner{
+    
+    background-color: brown;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+     
+}
+
 .banner{
     display: flex;
     background: rgba(229, 84, 115, 0.10);
@@ -19,6 +29,7 @@
 .parent-pic{
 display: flex;
 justify-content: space-around;
+
 
     }
 
@@ -55,3 +66,26 @@ justify-content: space-around;
     display: flex;
     gap: 5px;
 }
+.last-banner{
+ text-align: center;
+ padding-top: 50px;
+}
+.sub-btn{
+padding-top:20px ;
+justify-content: center;
+}
+.last-banner{
+    background-image: url(../Rectangle\ 9.png);
+    margin-top:40px ;
+    width: 120rem;
+    height: 304.1875rem;
+    background-repeat: no-repeat;
+    padding-right: 200px;
+    }
+    .btn2{
+    border-radius: 0.5rem;
+    background: #E55473;
+    color: #FFF;
+    border: 0;
+    font-size:20px;}
+    
